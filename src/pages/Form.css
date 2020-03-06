@@ -1,0 +1,31 @@
+.imgwhoare {
+    width: 100%;
+    height: auto;
+}
+
+ .bgformpage {
+    background: #F7F8FA;
+    height: auto;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    width: 100%;
+    height: auto;
+}
+
+.mainform {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    width: 30%;
+    margin-bottom: 20px;
+}
+
+.titlecontact {
+    text-align: center;
+    margin-top: 20px;
+}

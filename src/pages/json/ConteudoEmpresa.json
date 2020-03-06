@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "",
+    "description": "O Grupo Enfoque de Comunicação, que atua na área de comunicação institucional e de análise de dados desde 1990, sendo a pioneira na Baixada Santista (SP). Todos os projetos e trabalhos desenvolvidos pela Enfoque Comunicação têm a qualidade garantida pelo gabarito dos profissionais e tecnologia empregada, possibilitando um produto de alto padrão."
+  },
+  {
+    "id": 2,
+    "name": "Assessoria de Imprensa",
+    "description": "Com uma equipe de jornalistas e publicitários, a Enfoque oferece serviços de assessoria de imprensa, com a elaboração de releases, artigos de opinião, discursos, fotos, press-kits para envio aos veículos de comunicação, além de acompanhar e divulgar eventos."
+  },
+  {
+    "id": 3,
+    "name": "Pesquisas e Consultoria Técnica",
+    "description": "A Enfoque Comunicação Integrada também desenvolve pesquisas de campo e eleitorais, publicados especialmente para o jornal Boqnews, se tornando uma referência de consulta para políticos e eleitores da Baixada Santista, além de pesquisas voltados ao mercado."
+  },
+  {
+    "id": 4,
+    "name": "Produção Editorial",
+    "description": "A Enfoque Comunicação Integrada também está antenada com as novas tecnologias e tem investido neste segmento. Um dos frutos é a criação da primeira TV exclusivamente na Internet da Baixada Santista, a Boqnews TV, com produção de conteúdo próprio, ampliando seu raio de alcance atingindo novos públicos graças à integração de plataformas multimídias."
+  },
+  {
+    "id": 5,
+    "name": "Marketing & Eventos",
+    "description": "A empresa conta com parcerias com profissionais gabaritados para a criação, produção e realização de eventos, viabilizando feiras, shows, eventos comemorativos, inaugurações e festas."
+  }
+]

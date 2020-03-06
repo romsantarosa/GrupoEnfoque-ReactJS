@@ -1,0 +1,101 @@
+.flex-container {
+    display: grid;
+    box-sizing: border-box;
+    height: auto;
+    background: rgb(57, 61, 80);
+}
+
+.namecompany {
+    margin: 10px;
+    text-align: center;
+    align-self: center;
+    color: #fff;
+}
+
+.reserved {
+    margin-top: 10px;
+    text-align: center;
+    align-self: center;
+    color: #CCC;
+}
+
+.navcenter-footer  {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navcenter-footer  .linkroutes{
+    color: #00BCD4;
+}
+
+.navcenter-footer .linkroutes:hover{
+    color: #FFF;
+   
+}
+
+/*footer*/
+.toparea-icons-footer {
+    display: grid;
+    grid-template-columns: 35% 50% 2% 2% 2% 2%;
+    margin: 0 auto;
+    max-width: 100%;
+    background: #000; 
+
+
+}
+
+.toparea-footer {
+    background: #393D50; 
+}
+
+.phone{
+    text-align:center;
+    color:#00BCD4;
+}
+
+.email{
+    text-align:center;
+    color:#00BCD4;
+}
+
+
+.facemidia {
+    text-align:center;
+    color:#00BCD4;
+}
+
+.instamidia {
+    text-align:center;
+    color:#00BCD4;
+}
+
+.twittermidia {
+    text-align:center;
+    color:#00BCD4;
+}
+
+.whatsappmidia {
+    text-align:center;
+    color:#00BCD4;
+}
+
+.devname {
+    color: #fff;
+}
+
+.devname:hover {
+    color: #ccc;
+    text-decoration: none;
+}
+
+
+@media(max-width: 960px){
+    .toparea-icons-footer {
+        display: grid;
+        grid-template-columns: 35% 30% 8% 8% 8% 8%;
+        margin: 0 auto;
+        max-width: 100%;
+        background: #000; 
+    }
+}
+    

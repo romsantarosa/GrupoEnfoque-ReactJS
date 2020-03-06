@@ -1,0 +1,52 @@
+[
+      {
+        "id": 1,
+        "name":"",
+        "title": "Somos pioneiros em pesquisas de campo. Profissionais altamente qualificados.",
+        "icon":"https://www.boqnews.com/wp-content/uploads/2019/09/graph_icon_png_512.png",
+        "alt":"Pesquisas",
+        "url":"/pesquisa" 
+      },
+      {
+        "id": 2,
+        "name":"",
+        "title": "Marketing de estratégia, marketing especializado.",
+        "icon": "https://www.boqnews.com/wp-content/uploads/2019/09/social_media_marketing-512.png",
+        "alt":"Marketing",
+        "url":"/marketing"   
+      },
+      {
+        "id": 3,
+        "name":"",
+        "title": "Site de notícias atualizadas com matérias exclusivas.",
+        "icon": "https://www.boqnews.com/wp-content/uploads/2019/09/boqnews_com.png",
+        "target":"target='_blank'",
+        "url":"https://www.boqnews.com" 
+      },
+      {
+   
+        "id": 4,
+        "name":"",
+        "title": "Jornal semanal na Baixada Santista desde 1986.",
+        "icon": "https://www.boqnews.com/wp-content/uploads/2019/09/jornal_boqnews_512.png",
+        
+        "url":"/jornal" 
+      },
+      {
+        "id": 5,
+        "name":"",
+        "title": "Canal de Áudio com podcasts, matérias exclusivas e músicas para todos os ouvidos.",
+        "icon": "https://www.boqnews.com/wp-content/uploads/2019/09/canaldeaudiologo.png",
+        "target":"target='_blank'",
+        "url":"http://boqnews.vipradios.net.br/" 
+      },
+      
+      {
+      "id": 6,
+      "name":"",
+      "title": "Portal relacionado ao mundo animal. Aqui você encontra lojas, pets e matérias. ",
+      "icon": "https://www.boqnews.com/wp-content/uploads/2019/09/logomundodospets.png",
+      "target":"target='_blank'",
+      "url":"https://www.mundodospets.com" 
+    }
+    ]

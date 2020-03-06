@@ -1,0 +1,27 @@
+ .imgwhoare {
+    width: 100%;
+    height: auto;
+}
+
+ .whoare {
+    background: #F7F8FA;
+}
+.about{
+    height: auto;
+}
+
+.about h1{
+    color: #00BCD4;
+    font-size: 3rem;
+}
+
+.about p {
+    margin-top:20px;
+    color: rgb(150, 150, 150);
+}
+
+.about .titlepress {
+    font-size: 1.5rem;
+    margin-top: 30px;
+    color: rgb(105, 105, 105);
+}

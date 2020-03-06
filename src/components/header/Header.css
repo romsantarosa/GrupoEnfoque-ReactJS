@@ -1,0 +1,94 @@
+.toparea {
+    display: flex;
+    
+    height: 45px;
+    background: #393D50; 
+  
+}
+
+.icons {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    line-height: 45px;
+   
+}
+
+.phone{
+    width: 100%;
+    line-height: 45px;
+    text-align:center;
+    color:#00BCD4;
+}
+
+.email {
+    line-height: 45px;
+    width: 100%;
+    text-align:center;
+    color:#00BCD4;
+}
+
+
+.icons 
+.instamidia a, 
+.twittermidia a, 
+.whatsappmidia a, 
+.facemidia a {
+    
+    margin: 8px;
+    text-align:center;
+    color:#00BCD4;
+}
+
+.icons 
+.facemidia:hover a, 
+.instamidia:hover a,
+.twittermidia:hover a,
+.whatsappmidia:hover a {
+    color:#fff;
+    
+}
+
+
+
+
+
+.navbar {
+    background: rgba(0, 0, 0, 0.719)!important;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+ }
+
+.navbar-collapse {
+   justify-content: center;
+}
+
+a.nav-link {
+    color: #fff!important;
+ }
+
+.btncentral {
+    text-align: center;
+    padding: 50px;
+}
+
+a.linkroutes {
+    color: #fff;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.navcenter a:hover  {
+    border-bottom: 1px solid #00BCD4;
+    color: #00BCD4;
+}
+
+@media(max-width: 960px){
+    .toparea-icons {
+        display: grid;
+        grid-template-columns: 35% 30% 8% 8% 8% 8%;
+        margin: 0 auto;
+        max-width: 100%;
+        background: #393D50; 
+    }
+}
+    
